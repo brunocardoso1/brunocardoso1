@@ -23,7 +23,8 @@ Here are some ideas to get you started:
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunocardoso1&layout=compact&langs_count=7&theme=dark"/>
 </div>
 
-  ##
+  ## About me
+ 
   - 😄 I’m currently learning Flutter!  
   - 😁 Trying to be the best version of myself everyday
 
