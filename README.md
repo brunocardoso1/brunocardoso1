@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 </div>
 
   ##
-    😄 I’m currently learning Flutter!  
-    😁 Trying to be the best version of myself everyday
+  - 😄 I’m currently learning Flutter!  
+  - 😁 Trying to be the best version of myself everyday
 
   
