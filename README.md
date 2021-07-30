@@ -1,5 +1,8 @@
 ### Hi there! 👋
 
+  - 😄 I’m currently learning Flutter!  
+  - 😁 Trying to be the best version of myself everyday
+
 <!--
 **brunocardoso1/brunocardoso1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -25,7 +28,4 @@ Here are some ideas to get you started:
 
   ## 
  
-  - 😄 I’m currently learning Flutter!  
-  - 😁 Trying to be the best version of myself everyday
-
   
