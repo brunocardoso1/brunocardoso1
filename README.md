@@ -18,7 +18,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
- <img src="https://komarev.com/ghpvc/?username=brunocardoso&color=red" alt="brunocardoso1" /> 
 
 <div>
   <a href="https://github.com/brunocardoso1">
