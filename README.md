@@ -1,3 +1,3 @@
 ### Hi there! 👋
 
-  - I’m currently learning React.JS!  
+  - I’m currently learning Javascript!
